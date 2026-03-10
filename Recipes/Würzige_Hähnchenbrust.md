@@ -4,21 +4,24 @@
 
 **Für 4 Portionen:**
 
-* **Fleisch:**
-    * 4 Hähnchenbrustfilets (je ca. 175 g)
-    * 1 EL Öl (zum Anbraten)
+Fleisch:
 
-**Für die Würze:**
-    * 1 Chilischote (rot, fein gehackt)
-    * 1 Zweig Rosmarin (fein gehackt)
-    * 1 Zweig Thymian (fein gehackt)
-    * 3 Knoblauchzehen (gehackt)
-    * Salz und Pfeffer
-    * 2 EL Senf
+ * 4 Hähnchenbrustfilets (je ca. 175 g)
+ * 1 EL Öl (zum Anbraten)
 
-**Für die Glasur:**
-    * 2 TL Sojasauce
-    * 1 TL Honig
+Für die Würze:
+
+ * 1 Chilischote (rot, fein gehackt)
+ * 1 Zweig Rosmarin (fein gehackt)
+ * 1 Zweig Thymian (fein gehackt)
+ * 3 Knoblauchzehen (gehackt)
+ * Salz und Pfeffer
+ * 2 EL Senf
+
+Für die Glasur:
+
+ * 2 TL Sojasauce
+ * 1 TL Honig
 
 ---
 
