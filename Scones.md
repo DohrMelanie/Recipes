@@ -3,16 +3,18 @@
 ## Zutaten
 
 **Für den Teig (ergibt ca. 9 Stück):**
-* 250 g Mehl
-* 1 EL Backpulver
-* 1 EL Zucker
-* 0,5 TL Salz
-* 60 g kalte Butter
-* 150 ml Vollmilch
+
+- 250 g Mehl (glatt)
+- 1 EL Backpulver
+- 1 EL Zucker
+- 0,5 TL Salz
+- 60 g kalte Butter
+- 150 ml Vollmilch
 
 **Außerdem:**
-* 1 Ei (zum Bestreichen)
-* Mehl für die Arbeitsfläche
+
+- 1 Ei (zum Bestreichen)
+- Mehl für die Arbeitsfläche
 
 ---
 
@@ -34,9 +36,10 @@
 ---
 
 **Nährwerte (pro Portion):**
-* Kalorien: 170 kcal (berechnet aus den Gesamtwerten)
-* Eiweiß: 4,6 g
-* Fett: 7,1 g
-* Kohlenhydrate: 26,2 g
 
-*Quelle: [Chefkoch.de](https://www.chefkoch.de/rezepte/3195661475664860/Klassische-Scones.html)*
+- Kalorien: 170 kcal
+- Eiweiß: 4,6 g
+- Fett: 7,1 g
+- Kohlenhydrate: 26,2 g
+
+_Quelle: [Chefkoch.de](https://www.chefkoch.de/rezepte/3195661475664860/Klassische-Scones.html)_

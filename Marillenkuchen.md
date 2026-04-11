@@ -3,20 +3,22 @@
 ## Zutaten
 
 **Für den Teig und Belag:**
-* 400 g Marillen
-* 2 Stk Eier (getrennt)
-* 100 g Butter (weich)
-* 200 g Staubzucker (gesiebt)
-* 1 Pk Vanillezucker
-* 250 g Topfen (Quark)
-* 1 Pk Backpulver
-* 400 g Mehl (glatt)
-* 300 ml Milch (0,3 l)
-* 1 Prise Salz
+
+- 400 g Marillen
+- 2 Stk Eier (getrennt)
+- 100 g Butter (weich)
+- 200 g Staubzucker (gesiebt)
+- 1 Pk Vanillezucker
+- 250 g Topfen (Quark)
+- 1 Pk Backpulver
+- 400 g Mehl (glatt)
+- 300 ml Milch (0,3 l)
+- 1 Prise Salz
 
 **Zum Bestreuen:**
-* 30 g Mandelblättchen
-* 20 g Staubzucker
+
+- 30 g Mandelblättchen
+- 20 g Staubzucker
 
 ---
 
@@ -38,17 +40,16 @@
 
 ## Tipps zum Rezept
 
-* **Fruchtwahl:** Verwenden Sie am besten heimische, reife Marillen.
-* **Optik:** Die halbierten Marillen können mit der runden Seite nach unten gelegt werden. Noch feiner wird es, wenn man die Marillen in dünne, gleichmäßige Spalten schneidet.
-* **Form:** Es eignet sich eine Springform mit 26 cm Durchmesser oder eine Obsttortenform mit 30 cm Durchmesser.
-* **Knuspriges Finish:** Die Mandelblättchen können auch schon *vor* dem Backen auf den Kuchen gestreut werden (evtl. mit etwas Vanillezucker). Das sorgt für eine goldbraune, leicht karamellisierte Oberfläche.
+- **Form:** Es eignet sich eine Springform mit 26 cm Durchmesser oder eine Obsttortenform mit 30 cm Durchmesser.
+- **Knuspriges Finish:** Die Mandelblättchen können auch schon _vor_ dem Backen auf den Kuchen gestreut werden (evtl. mit etwas Vanillezucker). Das sorgt für eine goldbraune, leicht karamellisierte Oberfläche.
 
 ---
 
 **Nährwerte (pro Portion):**
-* Kalorien: 307 kcal
-* Fett: 8,97 g
-* Eiweiß: 8,23 g
-* Kohlenhydrate: 48,09 g
 
-*Quelle: [Gutekueche.at](https://www.gutekueche.at/marillenkuchen-mit-topfen-rezept-22368)*
+- Kalorien: 307 kcal
+- Fett: 8,97 g
+- Eiweiß: 8,23 g
+- Kohlenhydrate: 48,09 g
+
+_Quelle: [Gutekueche.at](https://www.gutekueche.at/marillenkuchen-mit-topfen-rezept-22368)_

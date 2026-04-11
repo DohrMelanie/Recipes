@@ -1,27 +1,29 @@
 # Zimtschnecken einfach & klassisch
 
+![Zimtschnecken](Images/Zimtschnecken.jpeg)
+
 ## Zutaten
 
-**Für den Teig (ergibt ca. 14 Stück):**
+**Für den Teig (ergibt ca. 12 Stück):**
 
-* 500 g Mehl
-* 90 g Butter
-* 50 g Zucker
-* 250 ml Milch
-* 21 g Frischhefe (oder 1 Päckchen/7 g Trockenhefe)
-* 1 Päckchen Bourbon-Vanillezucker
-* 1 Prise Salz
+- 500 g Mehl (glatt)
+- 90 g Butter
+- 50 g Zucker
+- 250 ml Milch
+- 21 g Frischhefe (oder 1 Päckchen/7 g Trockenhefe)
+- 1 Päckchen Bourbon-Vanillezucker
+- 1 Prise Salz
 
 **Für die Zimt-Zucker-Butter Füllung:**
 
-* 100 g weiche Butter
-* 100 g brauner Zucker
-* 2 TL Zimt
+- 100 g weiche Butter
+- 100 g brauner Zucker
+- 2 TL Zimt
 
 **Zum Bestreichen:**
 
-* 1 Eigelb
-* 1 EL Wasser
+- 1 Eigelb
+- 1 EL Wasser
 
 ---
 
@@ -44,11 +46,10 @@
    Den Teig zu einer Kugel formen, abdecken und bei Raumtemperatur **30–60 Minuten** ruhen lassen, bis sich das Volumen verdoppelt hat.
 
 5. **Füllen & Formen:**
-
-   * Füllung mischen: 100 g weiche Butter, 100 g braunen Zucker und 2 TL Zimt verrühren.
-   * Den Teig auf einer bemehlten Arbeitsfläche zu einem Rechteck (ca. 40 × 35 cm, 0,5 cm dick) ausrollen.
-   * Gleichmäßig mit der Füllung bestreichen, dabei ca. 1 cm Rand lassen.
-   * Von der langen Seite eng aufrollen und in **ca. 3 cm dicke Scheiben** schneiden.
+   - Füllung mischen: 100 g weiche Butter, 100 g braunen Zucker und 2 TL Zimt verrühren.
+   - Den Teig auf einer bemehlten Arbeitsfläche zu einem Rechteck (ca. 40 × 35 cm, 0,5 cm dick) ausrollen.
+   - Gleichmäßig mit der Füllung bestreichen, dabei ca. 1 cm Rand lassen.
+   - Von der langen Seite eng aufrollen und in **ca. 3 cm dicke Scheiben** schneiden.
 
 6. **Zweite Ruhezeit:**
    Die Schnecken auf ein Blech legen, abdecken und nochmals **30 Minuten** ruhen lassen.
@@ -64,9 +65,9 @@
 
 ## Tipps zum Rezept
 
-* **Hefe:** Achte darauf, dass die Hefe frisch ist – abgelaufene Hefe geht schlechter.
-* **Schneiden:** Mit einem sehr scharfen Messer arbeiten und die Klinge ziehen statt drücken, damit die Form schön bleibt.
-* **Alternative zum Bestreichen:** Auch ein ganzes Ei oder nur Milch ist möglich, ergibt aber eine blassere Farbe.
-* **Füllung:** Butter rechtzeitig aus dem Kühlschrank nehmen, damit sie weich ist.
+- **Glasur:** Mit einer weißen Kuvertüre sind die Zimtschnecken noch zehnmal besser
+- **Eier:** Achtung beim Bestreichen mit dem Eigelb - zu viel an einer Stelle, und Rührei entsteht nach dem Backen ;)
+- **Hefe:** Achte darauf, dass die Hefe frisch ist – abgelaufene Hefe geht schlechter.
+- **Füllung:** Butter rechtzeitig aus dem Kühlschrank nehmen, damit sie weich ist.
 
-*Quelle: Emmi (aus hochgeladenem PDF)*
+_Quelle: Emmi_
